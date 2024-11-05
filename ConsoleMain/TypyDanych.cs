@@ -55,3 +55,12 @@ string imie = "Mateusz";
 Console.Write(imie + "\n");
 
 // Zmienna Char - ???
+
+// Zmienna Var, używana jest do zastępywania wszystkich typów
+
+var numer = 2;
+Console.Write(numer + "\n");
+
+// Aby zatrzymać wyskakujące okno konsoli po otworzeniu kodu z pliku wywoławczego, należy dodać komendę podaną poniżej
+
+Console.ReadKey();
