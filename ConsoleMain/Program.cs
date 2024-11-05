@@ -42,6 +42,16 @@ double Dpi = 3.141592653589793238462643383279502884197;
 Console.Write(Dpi + "\n");
 
 // Adekwatnie "m" na końcu
+// Funfact! w Decimalu zazwyczaj pisane są programy bankowości.
 decimal Depi = 3.141592653589793238462643383279502884197m;
 
 Console.Write(Depi + "\n");
+
+
+// Wartości tekstowe zapisujemy chociażby za pomocą string.
+
+string imie = "Mateusz";
+
+Console.Write(imie + "\n");
+
+// Zmienna Char - ???
